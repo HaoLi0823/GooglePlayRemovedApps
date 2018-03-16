@@ -1,4 +1,4 @@
-# GooglePlayRemovedApps
+# A repository of Google Play removed apps during 2015-2017  
 
 Dataset 'GP15Remove.csv' contains the metadata of the apps that have been removed or replaced from Google Play during a two year period from 2015 to 2017.By leveraging two app sets crawled from Google Play in 2015 (over 1.5 million) and 2017 (over 2.1 million),we have identified 791,138 removed apps.
  
